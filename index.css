@@ -6,7 +6,7 @@ body {
     /* background: linear-gradient(white, gray); */
     height: 100vh;
     color: #e98a1d;
-    background-color:#ffe6f0;
+    background-color:hwb(314 76% 7%);
 
 }
 
@@ -35,4 +35,8 @@ button {
     color: white;
     font-family: inherit;
     font-size: 20px
+}
+#color{
+    background-color: rgb(210, 37, 66);
+    
 }
